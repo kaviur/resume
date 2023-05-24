@@ -55,7 +55,7 @@ dl {
     grid-template-columns: max-content auto;
 }
 dt {
-    font-weight: bolder;
+    font-weight:600;
     padding-inline-start:15px;
     display: inline;
     grid-column-start: 1;
